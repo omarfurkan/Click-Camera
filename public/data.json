@@ -1,0 +1,56 @@
+[
+  {
+    "id": "101",
+    "name": "Sony a7S III Mirrorless Camera",
+    "customerName": "jasmin",
+    "customerImg": "https://img.freepik.com/free-photo/indoor-shot-beautiful-happy-african-american-woman-smiling-cheerfully-keeping-her-arms-folded-relaxing-indoors-after-morning-lectures-university_273609-1270.jpg",
+    "comment": "nice and clear sound. I love this product",
+    "rating": 4,
+    "img": "https://www.bhphotovideo.com/cdn-cgi/image/format=auto,fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/canon_3924c002_eos_rebel_t8i_dslr_1581547604_1546031.jpg"
+  },
+  {
+    "id": "102",
+    "name": "Nikon D850 DSLR Camera",
+    "customerName": "Parvez",
+    "customerImg": "https://img.freepik.com/free-photo/indoor-shot-beautiful-happy-african-american-woman-smiling-cheerfully-keeping-her-arms-folded-relaxing-indoors-after-morning-lectures-university_273609-1270.jpg",
+    "comment": "nice and clear sound. I love this product",
+    "rating": 4,
+    "img": "https://www.bhphotovideo.com/cdn-cgi/image/format=auto,fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/nikon_d850_dslr_camera_body_1503543023_1351688.jpg"
+  },
+  {
+    "id": "103",
+    "name": "Sony ZV-1 Digital Camera (Black)",
+    "customerName": "Stev",
+    "customerImg": "https://img.freepik.com/free-photo/indoor-shot-beautiful-happy-african-american-woman-smiling-cheerfully-keeping-her-arms-folded-relaxing-indoors-after-morning-lectures-university_273609-1270.jpg",
+    "comment": "nice and clear sound. I love this product",
+    "rating": 4,
+    "img": "https://www.bhphotovideo.com/cdn-cgi/image/format=auto,fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/sony_dczv1_b_zv_1_digital_camera_1590489343_1565880.jpg"
+  },
+  {
+    "id": "104",
+    "name": "Olympus Tough TG-6 Digital Camera (Red)",
+    "customerName": "Michel",
+    "customerImg": "https://img.freepik.com/free-photo/indoor-shot-beautiful-happy-african-american-woman-smiling-cheerfully-keeping-her-arms-folded-relaxing-indoors-after-morning-lectures-university_273609-1270.jpg",
+    "comment": "nice and clear sound. I love this product",
+    "rating": 4,
+    "img": "https://www.bhphotovideo.com/cdn-cgi/image/format=auto,fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/olympus_v104210ru000_tough_tg_6_digital_camera_1563789974_1477205.jpg"
+  },
+  {
+    "id": "105",
+    "name": "Sony a7 II Mirrorless Camera ",
+    "customerName": "John",
+    "customerImg": "https://img.freepik.com/free-photo/indoor-shot-beautiful-happy-african-american-woman-smiling-cheerfully-keeping-her-arms-folded-relaxing-indoors-after-morning-lectures-university_273609-1270.jpg",
+    "comment": "nice and clear sound. I love this product",
+    "rating": 4,
+    "img": "https://www.bhphotovideo.com/cdn-cgi/image/format=auto,fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/sony_ilce7m2k_b_ac_alpha_a7_ii_mirrorless_1652704728_1324642.jpg"
+  },
+  {
+    "id": "106",
+    "name": "Canon EOS Rebel T8i DSLR Camera with 18-55mm Lens",
+    "customerName": "Alex",
+    "customerImg": "https://img.freepik.com/free-photo/indoor-shot-beautiful-happy-african-american-woman-smiling-cheerfully-keeping-her-arms-folded-relaxing-indoors-after-morning-lectures-university_273609-1270.jpg",
+    "comment": "nice and clear sound. I love this product",
+    "rating": 4,
+    "img": "https://www.bhphotovideo.com/cdn-cgi/image/format=auto,fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/canon_3924c002_eos_rebel_t8i_dslr_1581547604_1546031.jpg"
+  }
+]

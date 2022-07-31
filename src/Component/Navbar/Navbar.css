@@ -1,0 +1,14 @@
+.activeStyle {
+  color: #ffb4b4;
+  border-bottom: 2px solid #ffb4b4;
+  padding-bottom: 8px;
+  font-weight: bold;
+}
+
+.normalStyle {
+  color: black;
+  font-weight: bold;
+}
+.normalStyle:hover {
+  color: #ffb4b4;
+}
